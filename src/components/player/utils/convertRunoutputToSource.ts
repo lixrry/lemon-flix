@@ -1,4 +1,4 @@
-import { Stream } from "@lixxry/lemon-providers";
+import { Stream } from "@lixrry/lemon-providers";
 
 import {
   SourceFileStream,
