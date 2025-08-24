@@ -9,7 +9,7 @@
     "build": "vite build",
     "build:pwa": "cross-env VITE_PWA_ENABLED=true vite build",
     "update-and-build": "pnpm remove @lixrry/lemon-providers && pnpm add github:lixrry/lemon-providers#production && pnpm run build",
-    "update-providers": "pnpm update @lixxry/lemon-providers",
+    "update-providers": "pnpm update @lixrry/lemon-providers",
     "test": "vitest run",
     "preview": "vite preview",
     "lint": "eslint --ext .tsx,.ts src",
