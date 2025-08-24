@@ -1,7 +1,7 @@
 import {
   FullScraperEvents,
   RunOutput,
-  ScrapeMedia
+  ScrapeMedia,
 } from "@lixrry/lemon-providers";
 import { RefObject, useCallback, useEffect, useRef, useState } from "react";
 
