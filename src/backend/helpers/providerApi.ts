@@ -1,7 +1,7 @@
 import {
-    MetaOutput,
-    NotFoundError,
-    ScrapeMedia
+  MetaOutput,
+  NotFoundError,
+  ScrapeMedia
 } from "@lixrry/lemon-providers";
 import { jwtDecode } from "jwt-decode";
 
