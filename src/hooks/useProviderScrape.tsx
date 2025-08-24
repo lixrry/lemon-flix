@@ -1,4 +1,8 @@
-import { FullScraperEvents, RunOutput, ScrapeMedia } from "@lixrry/lemon-providers";
+import {
+    FullScraperEvents,
+    RunOutput,
+    ScrapeMedia
+} from "@lixrry/lemon-providers";
 import { RefObject, useCallback, useEffect, useRef, useState } from "react";
 
 import { isExtensionActiveCached } from "@/backend/extension/messaging";
