@@ -1,4 +1,8 @@
-import { MetaOutput, NotFoundError, ScrapeMedia } from "@lixrry/lemon-providers";
+import {
+    MetaOutput,
+    NotFoundError,
+    ScrapeMedia
+} from "@lixrry/lemon-providers";
 import { jwtDecode } from "jwt-decode";
 
 import { mwFetch } from "@/backend/helpers/fetch";
