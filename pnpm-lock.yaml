@@ -36,15 +36,15 @@ importers:
       '@ladjs/country-language':
         specifier: ^1.0.3
         version: 1.0.3
-      '@lixxry/lemon-providers':
-        specifier: github:lixxry/lemon-providers#production
-        version: https://codeload.github.com/lixrry/lemon-providers/tar.gz/41fbb094d76e3648cecc74861344b989722cee38
       '@marsidev/react-turnstile':
         specifier: ^0.7.2
         version: 0.7.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@noble/hashes':
         specifier: ^1.8.0
         version: 1.8.0
+      '@lixrry/lemon-providers':
+        specifier: github:lixrry/lemon-providers#production
+        version: https://codeload.github.com/lixrry/lemon-providers/tar.gz/41fbb094d76e3648cecc74861344b989722cee38
       '@plasmohq/messaging':
         specifier: ^0.6.2
         version: 0.6.2(react@18.3.1)
@@ -1269,7 +1269,7 @@ packages:
     resolution: {integrity: sha512-nn5ozdjYQpUCZlWGuxcJY/KpxkWQs4DcbMCmKojjyrYDEAGy4Ce19NN4v5MduafTwJlbKc99UA8YhSVqq9yPZA==}
     engines: {node: '>=12.4.0'}
 
-  '@lixxry/lemon-providers@https://codeload.github.com/lixrry/lemon-providers/tar.gz/41fbb094d76e3648cecc74861344b989722cee38':
+  '@lixrry/lemon-providers@https://codeload.github.com/lixrry/lemon-providers/tar.gz/41fbb094d76e3648cecc74861344b989722cee38':
     resolution: {tarball: https://codeload.github.com/lixrry/lemon-providers/tar.gz/41fbb094d76e3648cecc74861344b989722cee38}
     version: 3.1.0
 
